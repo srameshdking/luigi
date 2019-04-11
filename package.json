@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test:compatibility": "./scripts/testCompatibility.sh"
+    "test:cd ..compatibility": "./scripts/testCompatibility.sh"
   },
   "devDependencies": {
     "@starptech/prettyhtml": "^0.8.16",
